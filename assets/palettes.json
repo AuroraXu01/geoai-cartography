@@ -1,0 +1,13 @@
+{
+  "geo_seq": ["#f7fbff", "#deebf7", "#9ecae1", "#4292c6", "#08519c"],
+  "water": ["#f7fcfd", "#e0ecf4", "#9ebcda", "#8c96c6", "#88419d"],
+  "terrain_soft": ["#edf8e9", "#bae4b3", "#74c476", "#31a354", "#006d2c"],
+  "risk_orange": ["#fff5eb", "#fdd0a2", "#fdae6b", "#e6550d", "#a63603"],
+  "risk_red": ["#fff5f0", "#fcbba1", "#fc9272", "#fb6a4a", "#cb181d"],
+  "green": ["#f7fcf5", "#c7e9c0", "#74c476", "#238b45", "#00441b"],
+  "geo_div": ["#2166ac", "#67a9cf", "#f7f7f7", "#ef8a62", "#b2182b"],
+  "residual": ["#313695", "#74add1", "#ffffbf", "#f46d43", "#a50026"],
+  "change": ["#1b7837", "#a6dba0", "#f7f7f7", "#c2a5cf", "#762a83"],
+  "geo_cat": ["#4e79a7", "#f28e2b", "#e15759", "#76b7b2", "#59a14f", "#edc948", "#b07aa1", "#ff9da7", "#9c755f", "#bab0ab"],
+  "landuse": ["#66c2a5", "#fc8d62", "#8da0cb", "#e78ac3", "#a6d854", "#ffd92f", "#e5c494", "#b3b3b3"]
+}

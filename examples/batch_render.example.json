@@ -1,0 +1,32 @@
+{
+  "jobs": [
+    {
+      "input": "../outputs/tsunamis_points.shp",
+      "output": "../outputs/tsunami_height_quantile.jpg",
+      "field": "HEIGHT_M",
+      "mode": "classified",
+      "scheme": "quantile",
+      "classes": 5,
+      "cmap": "risk_orange",
+      "basemap": "naturalearth-muted",
+      "projection": "usa_albers",
+      "north_arrow": "triangle",
+      "scale_style": "alternating",
+      "title": "Tsunami maximum water height"
+    },
+    {
+      "input": "../outputs/tsunamis_points.shp",
+      "output": "../outputs/tsunami_height_log.jpg",
+      "field": "HEIGHT_M",
+      "mode": "classified",
+      "scheme": "log",
+      "classes": 5,
+      "cmap": "risk_red",
+      "basemap": "naturalearth-gray",
+      "projection": "usa_albers",
+      "north_arrow": "compass",
+      "scale_style": "ticks",
+      "title": "Tsunami maximum water height, log classes"
+    }
+  ]
+}
