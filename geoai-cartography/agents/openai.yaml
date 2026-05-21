@@ -1,0 +1,3 @@
+display_name: GeoAI Cartography
+short_description: Render publication-ready maps from local vector and raster geospatial files.
+default_prompt: Make a publication-ready map from my local shp/gpkg/geojson/tif file with CRS-aware scale bar, north arrow, legend, and reproducible export.
